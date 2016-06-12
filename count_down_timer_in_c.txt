@@ -33,9 +33,7 @@ int main ()
 		time_left=count_down_time_in_secs-x_seconds; // subtract to get difference 
 
  
-		printf( "\nYou have %d seconds left ( %d ) count down timer by TopCoder 
- 
-",time_left,count_down_time_in_secs);
+		printf( "\nYou have %d seconds left ( %d ) count down timer by",time_left,count_down_time_in_secs);
 	}
  
 
